@@ -9,3 +9,4 @@ personal/
 model/Kevin-MIE1517-processeddata
 Kevin-MIE1517-processeddata.zip
 best_efficientnet_v2_s.pth
+best_model_resnet152.pth
